@@ -1,6 +1,4 @@
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>  
-Dans ce tutoriel, je veux partager avec vous la création d’une application pour les opérations jquery ajax crud à l’aide de données js, des modals dans Laravel 5.8. nous allons créer des enregistrements de mise à jour avec suppression modale et pagination dans laravel 5.8.
-
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
